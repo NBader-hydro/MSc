@@ -1,0 +1,1 @@
+# Repository for the code and dataset of the master thesis: Geological and hydrogeological modeling of the quaternary aquifer in Versoix (canton Geneva) : comparison of a stochastic and a deterministic approach.
